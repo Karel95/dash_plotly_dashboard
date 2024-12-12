@@ -19,3 +19,6 @@ pip install plotly==5.24.1
 pip install dash
 
 pip install pandas
+
+
+python dashboard.py
